@@ -1,6 +1,5 @@
 # Tianchi_alimama
-Tianchi AI competition alimama
-Competation Link: https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.41952163w9Qodt&raceId=231647 
+Tianchi AI Competition Alimama Link: https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.41952163w9Qodt&raceId=231647 
 ## 赛题内容
 本次比赛以阿里电商广告为研究对象，提供了淘宝平台的海量真实交易数据，参赛选手通过人工智能技术构建预测模型预估用户的购买意向，即给定广告点击相关的用户（user）、广告商品（ad）、检索词（query）、上下文内容（context）、商店（shop）等信息的条件下预测广告产生购买行为的概率（pCVR），形式化定义为：pCVR=P(conversion=1 | query, user, ad, context, shop)。
 
